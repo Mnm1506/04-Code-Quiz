@@ -1,0 +1,40 @@
+.wrapper{
+    display: grid;
+    margin: 2%;
+    padding: 2%;
+}
+#content{
+    display: grid;
+    margin: 2%;
+    padding: 2%;
+}
+#timer{
+    float: right;
+    background-color: #17a2b8;
+}
+h1, p{
+    padding: 1%;
+    margin: 1%;
+}
+#question-div{
+    margin: auto;
+    padding: 1%; 
+}
+#choices{
+    margin: auto;
+    padding: 1%;
+    display: grid;
+}
+#scores-div{
+    display: grid;
+    text-align: center;
+    background-color: #17a2b8;
+}
+#buttons{
+    text-align-last: center;
+}
+.answer{
+    padding: 1%;
+    margin: 1%;
+    background-color: #17a2b8;
+}
